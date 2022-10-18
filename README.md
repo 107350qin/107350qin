@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @107350qin
-- 👀 I’m interested in Web development、Chip design、Open source project
-- 🌱 I’m currently learning chisel/firrtl
-- 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me : 1654400317@qq.com
+- 👋 大家好，我是南燕
+- 👀 我的兴趣领域：web全栈开发、芯片设计验证
+- 🌱 我最近在学习`chisel/firrtl`
+- 💞️ 我希望在Web开发方面进行合作
+- 📫 我的联系方式: `1654400317@qq.com`
 
 <!---
 107350qin/107350qin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
